@@ -1,6 +1,6 @@
 # NFT Asset API
 
-This API provides an easy method of fetching all NFTs belonging to a specific wallet & project regardless of whether or not the NFTs are staked.
+This API provides an easy method to fetch all NFTs belonging to a specific wallet & project regardless of whether or not the NFTs are staked.
 
 # Setup
 
