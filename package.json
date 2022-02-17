@@ -1,0 +1,21 @@
+{
+  "name": "wulfz-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cookie-parser": "^1.4.6",
+    "ethers": "^5.5.4",
+    "express": "^4.17.2",
+    "jade": "^1.11.0",
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.2.0"
+  }
+}
